@@ -32,15 +32,15 @@ Review
 
 The URL of the deployed application.​
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.​
-https://kbrazier2.github.io/HW06302020/.
+https://madhatter2084.github.io/homework06302020/.
 
 HTML
 
 title change
-linked proper navigation list items to properly scroll to appropriate section
+linked navigation list items to properly scroll to appropriate section
 used semantic elements such as header, nav, section, aside, and footer to replace divs
-condensed the 3 sections' classes into 1
-condensed the 3 asides' classes into 1
+condensed the 3 section classes into 1
+condensed the 3 aside classes into 1
 CSS
 
 rearranged layout of css to follow html
